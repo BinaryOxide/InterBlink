@@ -1,0 +1,51 @@
+# Visual Studio / C++ / Build artifacts
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+
+# Build folders
+x64/Debug/
+x64/Release/
+Debug/
+Release/
+build/
+bin/
+obj/
+
+# Executables and binaries
+*.exe
+*.dll
+*.pdb
+*.lib
+*.app
+*.out
+
+# Intermediate files
+*.idb
+*.ipch
+*.iobj
+*.ipdb
+
+# Logs
+*.log
+
+# NVIDIA SDK / temporary large files
+NVIDIA/
+*.nvsdk
+*.rtx
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Other temporary files
+*.tmp
+*.temp
+*.cache
+
+# Git itself
+.gitignore
