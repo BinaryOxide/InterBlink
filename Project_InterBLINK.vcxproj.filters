@@ -15,11 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="InterBLINK_Source_Code\Project_InterBLINK.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="LICENCE.txt" />
   </ItemGroup>
   <ItemGroup>

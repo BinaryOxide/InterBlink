@@ -123,9 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="InterBLINK_Source_Code\Project_InterBLINK.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="LICENCE.txt" />
   </ItemGroup>
   <ItemGroup>
