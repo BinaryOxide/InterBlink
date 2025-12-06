@@ -138,6 +138,7 @@
   <ItemGroup>
     <Text Include="CMakeLists.txt" />
     <Text Include="LICENSE.txt" />
+    <Text Include="project_sturucture.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="InterBLINK_source_code\src\engines\common\EngineBase.h" />
